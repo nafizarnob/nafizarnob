@@ -4,6 +4,21 @@ I'm a **Product Consultant** at [Fenergo](https://www.fenergo.com/) — a financ
 
 ---
 
+## 🤖 Current AI Toolkit
+
+The tools I work with daily to build, automate, and ship things faster:
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Cowork](https://img.shields.io/badge/Claude_Cowork-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github)
+
+- **Claude** — my primary AI for reasoning, drafting, and deep problem-solving
+- **Claude Code** — agentic coding in the terminal; writes, edits, and runs code end-to-end
+- **Claude Cowork** — desktop AI that manages files, tasks, and workflows alongside me
+
+---
+
 ## 💼 What I Do at Fenergo
 
 I work with large financial institutions to migrate them onto the Fenergo SaaS platform. That means:
@@ -17,7 +32,25 @@ I work with large financial institutions to migrate them onto the Fenergo SaaS p
 
 ## 🤖 AI Tools I've Built (Internal)
 
-I've been deeply hands-on building AI-powered internal tools using GitHub Copilot, Python, Flask, and OpenAI Codex — all running inside our org.
+I've been deeply hands-on building AI-powered internal tools using Claude, Python, Flask, and the Fenergo REST API — all running inside our org.
+
+### 🔁 Requirement-to-Config Pipeline *(Active)*
+> AI reads client business requirements and **automatically generates Fenergo platform configuration** — turning weeks of manual build work into a guided, automated flow.
+
+The pipeline understands compliance policies and product rules, maps them to platform entities, and produces ready-to-deploy configuration. I built deep knowledge of the Fenergo API to make this possible.
+
+`Claude` · `Python` · `Fenergo REST API` · `Flask` · `GitHub Copilot`
+
+---
+
+### 🧪 Hybrid API + UI Testing Framework *(Active)*
+> Backend policy engine tests run **directly via the Fenergo API**, while the AI simultaneously completes full task journeys on the UI — giving both deep coverage and realistic end-to-end validation.
+
+This approach catches policy logic bugs at the API layer while verifying the full user experience on the front end — two testing strategies in one automated run.
+
+`Python` · `Fenergo REST API` · `Playwright` · `Claude` · `GitHub Copilot`
+
+---
 
 ### 📊 Configuration Extractor
 > Extracts Fenergo platform configurations into a clean, business-readable Excel report — **used by the entire organisation.**
@@ -94,10 +127,11 @@ Located in **Nawabganj, Dinajpur, Bangladesh**, this premier destination feature
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github)
